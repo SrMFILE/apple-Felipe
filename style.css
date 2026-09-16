@@ -62,3 +62,12 @@
     padding: 0 22px;
 }
 
+.cabeçario-nav-list {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 44px;
+    margin: 0 -8px;
+    list-style: none;
+}
+
