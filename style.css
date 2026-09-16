@@ -34,6 +34,15 @@
         line-height: 1.48;
         letter-spacing: -0.02cm;
         color: var(--cor-texto);
-        
+
 
     }
+
+     img{
+        =display: block;
+     }
+
+     main {
+          max-width: 2560px;
+        margin: 0 auto;
+     }
