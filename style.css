@@ -46,3 +46,12 @@
           max-width: 2560px;
         margin: 0 auto;
      }
+
+     .cabeçario {
+        position: sticky;
+        top: 0;
+        z-index: 10;
+        height: 44px;
+        background-color: rgba(255,255,255 0);
+        backdrop-filter: saturate(100%) blur(20px);
+     }
